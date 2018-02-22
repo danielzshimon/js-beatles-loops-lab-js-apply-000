@@ -16,10 +16,11 @@ function johnLennonFacts(arrayOfFacts){
 }
 
 function iLoveTheBeatles(num){
-  var arrayOfFacts  = [];
+  var array  = [];
+  var i = 0;
+  do{
   
-  
-}
+
 // var result = "";
 // var i = 0;
 
@@ -29,3 +30,5 @@ function iLoveTheBeatles(num){
 // } while (i < 5);
 
 // console.log(result);
+  return array;
+}
