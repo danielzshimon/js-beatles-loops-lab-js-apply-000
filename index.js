@@ -20,7 +20,8 @@ function iLoveTheBeatles(num){
   var i = 0;
   do  {
     array.push("I love the Beatles!");
-  } while (num <= 15);
+    i++;
+  } while (num < 15);
   
   
 
