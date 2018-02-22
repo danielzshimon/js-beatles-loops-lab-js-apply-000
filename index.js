@@ -19,7 +19,7 @@ function iLoveTheBeatles(num){
   var array  = [];
   var i = 0;
   do  {
-    array.push
+    array.push()
   
 
 // var result = "";
