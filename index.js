@@ -1,3 +1,4 @@
 function theBeatlesPlay(){
+  var array = {};
   
 }
