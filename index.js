@@ -19,7 +19,8 @@ function iLoveTheBeatles(num){
   var array  = [];
   var i = 0;
   do  {
-    array.push()
+    array.push("I love the Beatles!");
+  } while {
   
 
 // var result = "";
