@@ -1,5 +1,6 @@
 function theBeatlesPlay(arrayOfMusicians, arrayOfInstruments){
-  var newArray = {};
+  var newArray = [];
+  
 
   
   
